@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3px;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+#main div button{
+    background: green;
+    border: none;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+}
+#img{
+    background: green;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
